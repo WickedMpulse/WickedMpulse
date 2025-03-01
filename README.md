@@ -6,7 +6,7 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Wicked&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Wicked&theme=vue-dark&hide_border=false)<br/>
+<!![](https://nirzak-streak-stats.vercel.app/?user=Wicked&theme=vue-dark&hide_border=false)<br/>>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wicked&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
